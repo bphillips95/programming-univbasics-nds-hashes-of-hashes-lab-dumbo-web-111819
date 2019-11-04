@@ -49,7 +49,7 @@ naming_system = {
         label: 'class'
                        }
                       }
-                  }
+                  
   {
   label: 'Order'
   }
@@ -62,5 +62,5 @@ naming_system = {
    {
   label: 'Species',
    :sub_category => nil
-    }
+    }}
 end
