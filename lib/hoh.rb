@@ -46,7 +46,7 @@ naming_system = {
     :sub_category => {
       label: 'phylum',
       :sub_category => {
-        label: 'ORDER'
+        label: 'Order'
                        }
                       }
  }
