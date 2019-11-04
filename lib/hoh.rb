@@ -49,7 +49,7 @@ naming_system = {
         label: 'class'
                        }
                       }
-}
+ }
   {
   label: 'Order'
   }
